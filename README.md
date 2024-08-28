@@ -18,3 +18,7 @@ In this project, you’ll use AWS Sagemaker to build an image classification mod
 - Step 4: Testing and evaluation
 - Step 5: Optional challenge
 - Step 6: Cleanup cloud resources
+
+## My Result
+
+![Step Function Success](step-function-result.PNG)
